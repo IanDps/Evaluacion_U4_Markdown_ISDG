@@ -7,4 +7,4 @@
 4-Utilice el archivo README.md que ya estaba dentro del repositorio y redacte los pasos de lo que hice.
 5-Para finañizar hice los comits que pedia y ya para terminar hice el publish final para subir cada cambio que hice dentro de la nube.
 
-Fin de la evaluacion.
+Finalizacion de la evaluacion.
